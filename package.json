@@ -29,7 +29,7 @@
 		"compliant"
 	],
 	"dependencies": {
-		"clone-response": "^1.0.2",
+		"clone-response": "github:Giotino/clone-response",
 		"get-stream": "^5.1.0",
 		"http-cache-semantics": "^4.0.0",
 		"keyv": "^4.0.0",
